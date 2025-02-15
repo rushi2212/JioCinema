@@ -191,5 +191,9 @@
   .usericon {
     width: 25px;
     height: 25px;
+    margin-left: 10px;
+  }
+  .header{
+    align-items: center;
   }
 }
