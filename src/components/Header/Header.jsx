@@ -57,7 +57,7 @@ const Header = (props) => {
               className={styles.searchInput}
               placeholder="Movies, Shows and more"
             />
-            <div className={styles.headerIcon}>
+            <div className={`${styles.headerIcon} voice`}>
               <img src={VoiceSearchIcon} alt="" />
             </div>
           </div>
