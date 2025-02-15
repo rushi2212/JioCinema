@@ -1,0 +1,56 @@
+
+.showFeatured
+{
+    width: 22%;
+    height: 400px;
+    display: flex;
+    /* background-color: green; */
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+
+}
+
+.showFeatured > img 
+{
+   width: 100%;
+   position: absolute;
+}
+
+.movieTitle
+{
+    width: 100%;
+    height: 70px;
+    background-color: rgba(6, 7, 7,.5);
+    position: absolute;
+    align-self: flex-end;
+    padding: 20px;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.movieTitle:hover 
+{
+    height: 200px;
+}
+
+@media (max-width: 768px) {
+    .showFeatured {
+      width: 100%;
+      height: 250px;
+    }
+  
+    .movieTitle {
+      font-size: 16px;
+      padding: 10px;
+      height: 60px;
+    }
+  
+    .movieTitle:hover {
+      height: 150px;
+    }
+  }
+  

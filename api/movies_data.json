@@ -1,0 +1,571 @@
+[
+    {
+        "name": "Inception",
+        "language": "English",
+        "genre": [
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "featured": true,
+        "cast": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Elliot Page"
+        ],
+        "imageUrl": "https://m.media-amazon.com/images/I/71thFiIUSpL._AC_UF894,1000_QL80_.jpg",
+        "imdb": 8.8,
+        "runtime": 148,
+        "description": "A skilled thief is given a chance at redemption if he can successfully perform an almost impossible task: planting an idea inside someone's subconscious.",
+        "country": "USA",
+        "id": 1
+    },
+    {
+        "name": "Parasite",
+        "language": "Korean",
+        "genre": [
+            "Drama",
+            "Thriller"
+        ],
+        "featured": true,
+        "cast": [
+            "Song Kang-ho",
+            "Choi Woo-shik",
+            "Park So-dam"
+        ],
+        "imageUrl": "https://m.media-amazon.com/images/I/71O1C6AFpXL._AC_UF1000,1000_QL80_.jpg",
+        "imdb": 8.6,
+        "runtime": 132,
+        "description": "A poor family schemes to become employed by a wealthy household and infiltrate their lives through deception and clever tricks.",
+        "country": "South Korea",
+        "id": 2
+    },
+    {
+        "name": "Spirited Away",
+        "language": "Japanese",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Fantasy"
+        ],
+        "featured": false,
+        "cast": [
+            "Rumi Hiiragi",
+            "Miyu Irino",
+            "Mari Natsuki"
+        ],
+        "imageUrl": "https://images-cdn.ubuy.co.in/633ff43ff6db4e59a7420611-yuttz-spirited-away-poster-japan-anime.jpg",
+        "imdb": 8.6,
+        "runtime": 125,
+        "description": "Chihiro, a sullen young girl, wanders into a mysterious world where she meets magical beings and learns to be brave and compassionate.",
+        "country": "Japan",
+        "id": 3
+    },
+    {
+        "name": "The Dark Knight",
+        "language": "English",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "featured": true,
+        "cast": [
+            "Christian Bale",
+            "Heath Ledger",
+            "Aaron Eckhart"
+        ],
+        "imageUrl": "https://m.media-amazon.com/images/I/81IfoBox2TL.jpg",
+        "imdb": 9.0,
+        "runtime": 152,
+        "description": "Batman faces his toughest challenge yet as he fights against the anarchist criminal mastermind, The Joker, who seeks to destroy Gotham City.",
+        "country": "USA",
+        "id": 4
+    },
+    {
+        "name": "La La Land",
+        "language": "English",
+        "genre": [
+            "Drama",
+            "Musical",
+            "Romance"
+        ],
+        "featured": false,
+        "cast": [
+            "Ryan Gosling",
+            "Emma Stone",
+            "John Legend"
+        ],
+        "imageUrl": "https://m.media-amazon.com/images/I/81j4bDPgXQL.jpg",
+        "imdb": 8.0,
+        "runtime": 128,
+        "description": "In Los Angeles, an aspiring actress and a dedicated jazz musician struggle to maintain their blossoming romance amid their professional aspirations.",
+        "country": "USA",
+        "id": 5
+    },
+    {
+        "name": "Coco",
+        "language": "English",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ],
+        "featured": false,
+        "cast": [
+            "Anthony Gonzalez",
+            "Gael Garc\u00eda Bernal",
+            "Benjamin Bratt"
+        ],
+        "imageUrl": "https://example.com/images/coco.jpg",
+        "imdb": 8.4,
+        "runtime": 105,
+        "description": "Despite his family's generations-old ban on music, young Miguel dreams of becoming a musician and embarks on a journey to the Land of the Dead.",
+        "country": "USA",
+        "id": 6
+    },
+    {
+        "name": "3 Idiots",
+        "language": "Hindi",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "featured": true,
+        "cast": [
+            "Aamir Khan",
+            "R. Madhavan",
+            "Sharman Joshi"
+        ],
+        "imageUrl": "https://m.media-amazon.com/images/I/61NSZeiNF3L._AC_UF894,1000_QL80_.jpg",
+        "imdb": 8.4,
+        "runtime": 170,
+        "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
+        "country": "India",
+        "id": 7
+    },
+    
+        {
+            "name": "Zindagi Na Milegi Dobara",
+            "language": "Hindi",
+            "genre": [
+                "Adventure",
+                "Drama"
+            ],
+            "featured": true,
+            "cast": [
+                "Hrithik Roshan",
+                "Farhan Akhtar",
+                "Abhay Deol"
+            ],
+            "imageUrl": "https://th.bing.com/th/id/OIP.l8JhRbcIQjTtINXmuq4GfwHaKs?w=128&h=184&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+            "imdb": 8.2,
+            "runtime": 153,
+            "description": "Three friends take a road trip in Spain that changes their outlook on life forever.",
+            "country": "India",
+            "id": 8
+        },
+        {
+            "name": "Gully Boy",
+            "language": "Hindi",
+            "genre": [
+                "Drama",
+                "Music"
+            ],
+            "featured": true,
+            "cast": [
+                "Ranveer Singh",
+                "Alia Bhatt",
+                "Siddhant Chaturvedi"
+            ],
+            "imageUrl": "https://th.bing.com/th/id/OIP.qpRt0tdyV-Msro5AhJtfbQHaJu?w=127&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+            "imdb": 8.0,
+            "runtime": 154,
+            "description": "A street rapper from Mumbai fights against all odds to follow his dream of becoming a hip-hop artist.",
+            "country": "India",
+            "id": 9
+        },
+        {
+            "name": "Dangal",
+            "language": "Hindi",
+            "genre": [
+                "Action",
+                "Biography",
+                "Drama"
+            ],
+            "featured": true,
+            "cast": [
+                "Aamir Khan",
+                "Fatima Sana Shaikh",
+                "Sanya Malhotra"
+            ],
+            "imageUrl": "data:image/jpeg;base64,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",
+            "imdb": 8.4,
+            "runtime": 161,
+            "description": "A former wrestler trains his daughters to become world-class wrestlers and achieve his unfulfilled dream.",
+            "country": "India",
+            "id": 10
+        },
+        {
+            "name": "Dilwale Dulhania Le Jayenge",
+            "language": "Hindi",
+            "genre": [
+                "Drama",
+                "Romance"
+            ],
+            "featured": true,
+            "cast": [
+                "Shah Rukh Khan",
+                "Kajol",
+                "Amrish Puri"
+            ],
+            "imageUrl": "https://th.bing.com/th/id/OIP.8Q7RND8l0QLoGKvZcZ9yUAAAAA?w=131&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+            "imdb": 8.0,
+            "runtime": 190,
+            "description": "A young couple falls in love during a trip to Europe but faces opposition from their families.",
+            "country": "India",
+            "id": 11
+        },
+        {
+            "name": "Andhadhun",
+            "language": "Hindi",
+            "genre": [
+                "Crime",
+                "Thriller"
+            ],
+            "featured": true,
+            "cast": [
+                "Ayushmann Khurrana",
+                "Tabu",
+                "Radhika Apte"
+            ],
+            "imageUrl": "https://th.bing.com/th/id/OIP.7LxlukkKH7A6EgKz9R5RoQHaJ4?w=136&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+            "imdb": 8.2,
+            "runtime": 139,
+            "description": "A blind pianist gets entangled in a murder mystery that alters his life forever.",
+            "country": "India",
+            "id": 12
+        },
+    
+    
+    {
+        "name": "The Godfather",
+        "language": "English",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "featured": true,
+        "cast": [
+            "Marlon Brando",
+            "Al Pacino",
+            "James Caan"
+        ],
+        "imageUrl": "https://m.media-amazon.com/images/I/61k7Mx2IjzL.jpg",
+        "imdb": 9.2,
+        "runtime": 175,
+        "description": "The patriarch of an organized crime dynasty in New York City transfers control of his empire to his reluctant son.",
+        "country": "USA",
+        "id": 8
+    },
+    {
+        "name": "Your Name",
+        "language": "Japanese",
+        "genre": [
+            "Animation",
+            "Drama",
+            "Fantasy"
+        ],
+        "featured": false,
+        "cast": [
+            "Ryunosuke Kamiki",
+            "Mone Kamishiraishi"
+        ],
+        "imageUrl": "https://rukminim2.flixcart.com/image/850/1000/xif0q/book/1/f/p/your-name-the-official-visual-guide-original-imahy5knsetkjzxe.jpeg?q=90&crop=false",
+        "imdb": 8.4,
+        "runtime": 106,
+        "description": "Two teenagers mysteriously swap bodies and must find a way to meet and change their destinies before disaster strikes.",
+        "country": "Japan",
+        "id": 9
+    },
+    {
+        "name": "Gladiator",
+        "language": "English",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "featured": true,
+        "cast": [
+            "Russell Crowe",
+            "Joaquin Phoenix",
+            "Connie Nielsen"
+        ],
+        "imageUrl": "https://rukminim2.flixcart.com/image/850/1000/kyvvtzk0/poster/d/x/8/medium-gladiator-matte-finish-poster-urbanprint6311-original-imagbygdgnhbdj8z.jpeg?q=90&crop=false",
+        "imdb": 8.5,
+        "runtime": 155,
+        "description": "A betrayed Roman general fights for his freedom and honor in the gladiatorial arena while seeking vengeance against the corrupt emperor.",
+        "country": "USA",
+        "id": 10
+    },
+    {
+        "name": "Interstellar",
+        "language": "English",
+        "genre": ["Sci-Fi", "Adventure", "Drama"],
+        "featured": true,
+        "cast": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+        "imageUrl": "https://example.com/images/interstellar.jpg",
+        "imdb": 8.6,
+        "runtime": 169,
+        "description": "A team of explorers travels through a wormhole in space in an attempt to ensure humanity's survival.",
+        "country": "USA",
+        "id": 11
+    },
+    {
+        "name": "The Grand Budapest Hotel",
+        "language": "English",
+        "genre": ["Comedy", "Adventure", "Drama"],
+        "featured": false,
+        "cast": ["Ralph Fiennes", "Tony Revolori", "Saoirse Ronan"],
+        "imageUrl": "https://example.com/images/grand-budapest.jpg",
+        "imdb": 8.1,
+        "runtime": 99,
+        "description": "A concierge at a famous European hotel becomes embroiled in a murder mystery after inheriting a priceless painting.",
+        "country": "USA",
+        "id": 12
+    },
+    {
+        "name": "Pulp Fiction",
+        "language": "English",
+        "genre": ["Crime", "Drama"],
+        "featured": true,
+        "cast": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+        "imageUrl": "https://example.com/images/pulp-fiction.jpg",
+        "imdb": 8.9,
+        "runtime": 154,
+        "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in a series of incidents.",
+        "country": "USA",
+        "id": 13
+    },
+    {
+        "name": "Amélie",
+        "language": "French",
+        "genre": ["Comedy", "Romance"],
+        "featured": false,
+        "cast": ["Audrey Tautou", "Mathieu Kassovitz", "Rufus"],
+        "imageUrl": "https://example.com/images/amelie.jpg",
+        "imdb": 8.3,
+        "runtime": 122,
+        "description": "Amélie, an innocent and naive girl in Paris, sets out on a quest to spread happiness to those around her.",
+        "country": "France",
+        "id": 14
+    },
+    {
+        "name": "Schindler's List",
+        "language": "English",
+        "genre": ["Biography", "Drama", "History"],
+        "featured": true,
+        "cast": ["Liam Neeson", "Ralph Fiennes", "Ben Kingsley"],
+        "imageUrl": "https://example.com/images/schindlers-list.jpg",
+        "imdb": 9.0,
+        "runtime": 195,
+        "description": "In German-occupied Poland during World War II, a businessman saves the lives of over a thousand Jewish refugees.",
+        "country": "USA",
+        "id": 15
+    },
+    {
+        "name": "The Lion King",
+        "language": "English",
+        "genre": ["Animation", "Adventure", "Drama"],
+        "featured": false,
+        "cast": ["Matthew Broderick", "James Earl Jones", "Jeremy Irons"],
+        "imageUrl": "https://example.com/images/lion-king.jpg",
+        "imdb": 8.5,
+        "runtime": 88,
+        "description": "A lion cub prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
+        "country": "USA",
+        "id": 16
+    },
+    {
+        "name": "The Prestige",
+        "language": "English",
+        "genre": ["Drama", "Mystery", "Sci-Fi"],
+        "featured": true,
+        "cast": ["Christian Bale", "Hugh Jackman", "Scarlett Johansson"],
+        "imageUrl": "https://example.com/images/prestige.jpg",
+        "imdb": 8.5,
+        "runtime": 130,
+        "description": "Two magicians engage in a bitter rivalry to create the ultimate stage illusion.",
+        "country": "USA",
+        "id": 17
+    },
+    {
+        "name": "A Separation",
+        "language": "Persian",
+        "genre": ["Drama"],
+        "featured": false,
+        "cast": ["Leila Hatami", "Peyman Maadi", "Sareh Bayat"],
+        "imageUrl": "https://example.com/images/separation.jpg",
+        "imdb": 8.3,
+        "runtime": 123,
+        "description": "A married couple faces a complex decision when one desires to leave Iran and the other wants to stay and care for a parent.",
+        "country": "Iran",
+        "id": 18
+    },
+    {
+        "name": "Whiplash",
+        "language": "English",
+        "genre": ["Drama", "Music"],
+        "featured": true,
+        "cast": ["Miles Teller", "J.K. Simmons", "Paul Reiser"],
+        "imageUrl": "https://example.com/images/whiplash.jpg",
+        "imdb": 8.5,
+        "runtime": 106,
+        "description": "A young drummer's pursuit of perfection in the world of jazz music leads to a tense relationship with his mentor.",
+        "country": "USA",
+        "id": 19
+    },
+    {
+        "name": "Pan's Labyrinth",
+        "language": "Spanish",
+        "genre": ["Drama", "Fantasy", "War"],
+        "featured": false,
+        "cast": ["Ivana Baquero", "Sergi López", "Maribel Verdú"],
+        "imageUrl": "https://example.com/images/pans-labyrinth.jpg",
+        "imdb": 8.2,
+        "runtime": 118,
+        "description": "A young girl in post-Civil War Spain discovers a magical labyrinth and faces dark forces while seeking refuge from her cruel stepfather.",
+        "country": "Spain",
+        "id": 20
+    },
+    {
+        "name": "City of God",
+        "language": "Portuguese",
+        "genre": ["Crime", "Drama"],
+        "featured": true,
+        "cast": ["Alexandre Rodrigues", "Leandro Firmino", "Phellipe Haagensen"],
+        "imageUrl": "https://example.com/images/city-of-god.jpg",
+        "imdb": 8.6,
+        "runtime": 130,
+        "description": "In the slums of Rio de Janeiro, two boys take different paths as one becomes a photographer and the other a drug dealer.",
+        "country": "Brazil",
+        "id": 21
+    },
+    {
+        "name": "Oldboy",
+        "language": "Korean",
+        "genre": ["Action", "Drama", "Mystery"],
+        "featured": true,
+        "cast": ["Choi Min-sik", "Yoo Ji-tae", "Kang Hye-jung"],
+        "imageUrl": "https://example.com/images/oldboy.jpg",
+        "imdb": 8.4,
+        "runtime": 120,
+        "description": "A man is imprisoned for 15 years without explanation and is suddenly released, seeking vengeance and uncovering a dark mystery.",
+        "country": "South Korea",
+        "id": 22
+    },
+    {
+        "name": "The Intouchables",
+        "language": "French",
+        "genre": ["Biography", "Comedy", "Drama"],
+        "featured": false,
+        "cast": ["François Cluzet", "Omar Sy", "Anne Le Ny"],
+        "imageUrl": "https://example.com/images/intouchables.jpg",
+        "imdb": 8.5,
+        "runtime": 112,
+        "description": "An aristocrat becomes a quadriplegic from a paragliding accident and hires a young man from the projects to be his caregiver.",
+        "country": "France",
+        "id": 23
+    },
+    {
+        "name": "The Lives of Others",
+        "language": "German",
+        "genre": ["Drama", "Thriller"],
+        "featured": true,
+        "cast": ["Ulrich Mühe", "Martina Gedeck", "Sebastian Koch"],
+        "imageUrl": "https://example.com/images/lives-of-others.jpg",
+        "imdb": 8.4,
+        "runtime": 137,
+        "description": "An East German officer becomes emotionally involved while spying on a writer and his lover in the 1980s.",
+        "country": "Germany",
+        "id": 24
+    },
+    {
+        "name": "Life is Beautiful",
+        "language": "Italian",
+        "genre": ["Comedy", "Drama", "Romance"],
+        "featured": false,
+        "cast": ["Roberto Benigni", "Nicoletta Braschi", "Giorgio Cantarini"],
+        "imageUrl": "https://example.com/images/life-is-beautiful.jpg",
+        "imdb": 8.6,
+        "runtime": 116,
+        "description": "A father uses his wit and humor to shield his son from the horrors of a Nazi concentration camp during World War II.",
+        "country": "Italy",
+        "id": 25
+    },
+    {
+        "name": "Rashomon",
+        "language": "Japanese",
+        "genre": ["Crime", "Drama", "Mystery"],
+        "featured": true,
+        "cast": ["Toshiro Mifune", "Machiko Kyo", "Masayuki Mori"],
+        "imageUrl": "https://example.com/images/rashomon.jpg",
+        "imdb": 8.2,
+        "runtime": 88,
+        "description": "A murder and rape are recounted from multiple perspectives, revealing the complexities of truth and human nature.",
+        "country": "Japan",
+        "id": 26
+    },
+    {
+        "name": "The Hunt",
+        "language": "Danish",
+        "genre": ["Drama", "Thriller"],
+        "featured": false,
+        "cast": ["Mads Mikkelsen", "Thomas Bo Larsen", "Annika Wedderkopp"],
+        "imageUrl": "https://example.com/images/hunt.jpg",
+        "imdb": 8.3,
+        "runtime": 115,
+        "description": "A kindergarten teacher's life unravels when a simple lie spirals out of control, causing his community to turn against him.",
+        "country": "Denmark",
+        "id": 27
+    },
+    {
+        "name": "Slumdog Millionaire",
+        "language": "English",
+        "genre": ["Drama", "Romance"],
+        "featured": true,
+        "cast": ["Dev Patel", "Freida Pinto", "Anil Kapoor"],
+        "imageUrl": "https://example.com/images/slumdog-millionaire.jpg",
+        "imdb": 8.0,
+        "runtime": 120,
+        "description": "A teenager from the slums of Mumbai becomes a contestant on a game show, reliving his harsh life experiences with each question.",
+        "country": "India",
+        "id": 28
+    },
+    {
+        "name": "Portrait of a Lady on Fire",
+        "language": "French",
+        "genre": ["Drama", "Romance"],
+        "featured": false,
+        "cast": ["Noémie Merlant", "Adèle Haenel", "Valeria Golino"],
+        "imageUrl": "https://example.com/images/portrait-lady-fire.jpg",
+        "imdb": 8.1,
+        "runtime": 120,
+        "description": "On an isolated island in 18th-century France, an artist falls in love with the woman she is commissioned to paint.",
+        "country": "France",
+        "id": 29
+    },
+    {
+        "name": "The Handmaiden",
+        "language": "Korean",
+        "genre": ["Drama", "Mystery", "Romance"],
+        "featured": true,
+        "cast": ["Kim Min-hee", "Kim Tae-ri", "Ha Jung-woo"],
+        "imageUrl": "https://example.com/images/handmaiden.jpg",
+        "imdb": 8.1,
+        "runtime": 145,
+        "description": "A Korean con man hires a handmaiden to help him seduce a Japanese heiress, but things take unexpected turns.",
+        "country": "South Korea",
+        "id": 30
+    }
+]

@@ -1,0 +1,56 @@
+.shows {
+  width: 100%;
+  background-color: #060707;
+  /* background-color: red; */
+  padding: 10px 2%;
+}
+
+.showsparent {
+  width: 100%;
+
+  /* background-color: blue; */
+  display: flex;
+  justify-content: space-between;
+}
+
+@media (max-width: 768px) {
+  .showsparent {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
+
+  .show {
+    width: 45%; /* Adjusted for better responsiveness */
+    height: 250px;
+  }
+
+  .movieTitle {
+    font-size: 16px;
+    padding: 10px;
+    height: 60px;
+  }
+
+  .movieTitle:hover {
+    height: 120px;
+  }
+}
+
+@media (max-width: 480px) {
+  .show {
+    width: 100%;
+    height: 200px;
+  }
+
+  .movieTitle {
+    font-size: 14px;
+    padding: 8px;
+    height: 50px;
+  }
+
+  .movieTitle:hover {
+    height: 100px;
+  }
+}
+
+

@@ -1,0 +1,37 @@
+.tags {
+  width: 100%;
+  height: 75px;
+  background-color: #060707;
+  display: flex;
+  align-items: center;
+  column-gap: 12px;
+  padding: 0px 2%;
+}
+
+.tag {
+  background-color: #363636;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  width: fit-content;
+  padding: 5px 15px;
+  border-radius: 15px;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.tag:hover {
+  background-color: #888585;
+}
+
+@media (max-width: 768px) {
+    .tags {
+      padding: 10px;
+      overflow-x: scroll; /* Ensures smooth scrolling on mobile */
+    }
+  
+    .tag {
+      font-size: 14px;
+      padding: 6px 12px;
+    }
+  }
