@@ -5,7 +5,7 @@ const cors = require('cors');
 
 const app = express();
 app.use(cors());
-const port = 3000;
+// const port = 3000;
 
 // Path to the JSON file
 const moviesFilePath = path.join(__dirname, 'movies_data.json');
@@ -41,6 +41,8 @@ app.get('/movies/:id', (req, res) => {
 });
 
 // Start the server
+const port = process.env.PORT || 3000; // Use the provided port from Render
 app.listen(port, () => {
-  console.log(`Server is running on http://localhost:${port}`);
+  console.log(`Server is running on port ${port}`);
 });
+
