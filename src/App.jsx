@@ -1,6 +1,4 @@
-
-
-import Header from './components/Header/Header' 
+import Header from "./components/Header/Header";
 import Tags from "./components/Tags/Tags";
 import Channels from "./components/Channels/Channels";
 import Carousel from "./components/Carousel/Carousel";
@@ -18,7 +16,9 @@ const App = () => {
   useEffect(() => {
     async function fetchMovies() {
       try {
-        let moviesResponse = await fetch("http://localhost:3000/movies");
+        let moviesResponse = await fetch(
+          "https://jiocinema-qrlr.onrender.com/movies"
+        );
         let movies = await moviesResponse.json(); // Await JSON parsing
         setMovies(movies);
 
